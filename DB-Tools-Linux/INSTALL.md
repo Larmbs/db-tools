@@ -1,6 +1,7 @@
 # INSTALL
+This is an install guide to download the droneboi computer build tools.
 
-Open bin with the terminal and run this command
+To download run this command in a terminal open to DB-Tools-Linux/bin
 ``Bash
-mv dbasm dbvm /bin
+sudo mv dbasm dbvm /bin
 ```
