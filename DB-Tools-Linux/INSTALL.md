@@ -1,6 +1,6 @@
 # INSTALL
 
+Open bin with the terminal and run this command
 ``Bash
-mv dbasm /bin
-mv dbvm /bin
+mv dbasm dbvm /bin
 ```
